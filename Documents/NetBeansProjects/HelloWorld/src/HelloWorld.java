@@ -18,9 +18,9 @@ public class HelloWorld {
         System.out.println("Hello World. Here I am");
         System.out.println("Este es otro ejemplo en NetBeans");
         System.out.println("Tengo Hambre");
-        //Metodos
-        public void getName(){
-            return nombre;
+       
+        //Metodo 2
+        System.out.println("Este es un tercer ejemplo");    
         
     }
     
