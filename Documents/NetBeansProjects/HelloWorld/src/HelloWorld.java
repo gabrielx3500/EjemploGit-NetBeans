@@ -16,6 +16,9 @@ public class HelloWorld {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello World. Here I am");
+        System.out.println("Este es otro ejemplo en NetBeans");
+        System.out.println("Tengo Hambre");
+        
     }
     
 }
